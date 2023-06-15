@@ -10,3 +10,7 @@ export function add(a, b) {
 export function addA(a, b) {
   return a + b
 }
+
+export function addB(a, b) {
+  return a + b
+}
